@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/dev-web-app-465306/locations/us-central1/clusters/cluster-1-staging
+  cluster: projects/dev-web-app-465306/locations/region/us-central1/clusters/cluster-1-staging
 
